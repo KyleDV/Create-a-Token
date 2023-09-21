@@ -1,5 +1,5 @@
 # Create-a-Token
-This is a program to create Pogcoins. This program can be run using the online solidity IDE https://remix.ethereum.org/
+createasol.sol is a program to create Pogcoins. This program can be run using the online solidity IDE https://remix.ethereum.org/
 ### Mint
 The mint function adds tokens to the balance of a specified address and the total supply.
 ### Burn
