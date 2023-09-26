@@ -29,7 +29,7 @@ The burn function removes tokens from the balance of the specified address and t
 ## Authors
 
 Kyle Dominic C. Vallo
-[kyledominic2001@gmail.com]
+//kyledominic2001@gmail.com
 
 ## License
 
