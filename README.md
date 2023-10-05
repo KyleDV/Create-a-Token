@@ -26,7 +26,7 @@ The burn function removes tokens from the balance of the specified address and t
 * Open the Solidity compiler(third icon on the far right)
 * Click "Compile"
 * Open the Deploy & run transactions(fourth icon on the far right)
-* * Click "Deploy"
+* Click "Deploy"
 
 ## Authors
 
