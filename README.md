@@ -24,7 +24,9 @@ The burn function removes tokens from the balance of the specified address and t
 * Upload createasol.sol
 * Open on createasol.sol in FILE EXPORER
 * Open the Solidity compiler(third icon on the far right)
-* Click "Compile and Run script"
+* Click "Compile"
+* Open the Deploy & run transactions(fourth icon on the far right)
+* * Click "Deploy"
 
 ## Authors
 
